@@ -1,8 +1,10 @@
 # ClassBeacon
 Student Attendance tracking iOS app that utilises iBeacons.
+http://lukealexanderharris.github.io/ClassBeaconDemoSite/
 
-Please open and edit ClassBeacon.xcworkspace.
-
+```
+Open and edit ClassBeacon.xcworkspace.
+```
 Setup
 -------
 

@@ -6,20 +6,21 @@ Please open and edit ClassBeacon.xcworkspace.
 Setup
 -------
 
-PARSE - http://www.parse.com
+Parse - http://www.parse.com
 
-Once you've created an account;
+Once you've created an account
 
 * Create an App
 
 * Copy Application ID & Client Key and use them in the AppDelegate
 * Create core classes
-                    * ClassList: for storing all information of each lesson.
-                    * Individual CLasses for recording each Lesson subject Attendance.
-                    * iBeacon class for storing all iBeacon major and minor values and the room location of each beacon.
-                    * Notes: for storing students notes.
+* ------
+* Users
+* ClassList: for storing all information of each lesson.
+* Individual CLasses for recording each Lesson subject Attendance.
+* iBeacon class for storing all iBeacon major and minor values and the room location of each beacon.
+* Notes: for storing students notes.
 
-I will include screen shots of the formats of all the classes in use.
 
 
 Installation
@@ -44,19 +45,8 @@ Alternatively, you can install it manually. Follow the steps described below:
 
 Acknowledgments
 --------
-Thank you to all those mentioned below for helping make this project a reality
 
-UNIVERSITY STAFF
-Dr Christos Efstratiou
-
-ORGANISATIONS
-The University of Kent 
-Apple, Inc 
-Estimote,Inc
-Parse
-
-DEVELOPERS
-Joan Lluch - AMSmoothAlert
-Antoine Marliac - SWRevealViewController 
-Shuichi Tsutsumi - Pulsating Halo
-Kevin Zhow - PNChart 
+Joan Lluch - [AMSmoothAlert] (https://github.com/mtonio91/AMSmoothAlert)
+Antoine Marliac - [SWRevealViewController] (https://github.com/John-Lluch/SWRevealViewController)
+Shuichi Tsutsumi - [Pulsating Halo] (https://github.com/shu223/PulsingHalo)
+Kevin Zhow - [PNChart] (https://github.com/kevinzhow/PNChart) 

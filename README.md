@@ -47,6 +47,9 @@ Acknowledgments
 --------
 
 Joan Lluch - [AMSmoothAlert] (https://github.com/mtonio91/AMSmoothAlert)
+
 Antoine Marliac - [SWRevealViewController] (https://github.com/John-Lluch/SWRevealViewController)
+
 Shuichi Tsutsumi - [Pulsating Halo] (https://github.com/shu223/PulsingHalo)
+
 Kevin Zhow - [PNChart] (https://github.com/kevinzhow/PNChart) 

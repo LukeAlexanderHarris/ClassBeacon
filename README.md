@@ -16,7 +16,7 @@ Once you've created an account
 
 * Copy Application ID & Client Key and use them in the AppDelegate
 * Create core classes
-* ------
+-------
 * Users
 * ClassList: for storing all information of each lesson.
 * Individual CLasses for recording each Lesson subject Attendance.
